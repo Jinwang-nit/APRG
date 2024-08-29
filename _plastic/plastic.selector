@@ -1,0 +1,4 @@
+repository "RPG_Plus@monituihuo@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
